@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'firstapp',
     'secondapp',
 ]
-
+#dont include this
+tABCD 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
